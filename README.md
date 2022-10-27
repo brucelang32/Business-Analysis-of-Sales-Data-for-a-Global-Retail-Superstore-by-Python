@@ -15,4 +15,4 @@ As a business analyst, I need to make an exploratory data analysis (EDA) and rai
 The dataset comes from [Kaggle](https://www.kaggle.com/datasets/jr2ngb/superstore-data)
 
 ## Business Analysis
-I 
+I created my business analysis report on Jupyter Notebook to make it more clear and neat. You can open it and see the whole report.
